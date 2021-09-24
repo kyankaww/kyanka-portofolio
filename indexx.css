@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+}
+:root{
+    --warnaputih:white;
+    --ukuranfont:15px;
+}
+.img{
+    margin: 10px 580px 10px 580px;
+}
+.gambar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12%;
+    height: 12%;
+}
+
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+    background-image: url(white_background_dents_bumps_texture_69592_300x168.jpg)
+    
+}
+
+h3.halo{
+    text-align: center;
+    line-height: 10px;
+    
+    
+}
+p.perkenalan{
+  font-size: var(--ukuranfont);
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;	
+}
+p.sosialmedia{
+    font-size: var(--ukuranfont);
+    text-align: center;
+}
+h3.pend{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+table.tabelpendidikan{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: var(--warnaputih);
+    font-size: var(--ukuranfont);
+    max-width: 50%;
+    width: 50%;
+}
+div.pengalaman{
+    max-width: 50%;
+    width: 30%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+p.pengalaman{
+    font-size: var(--ukuranfont); 
+}
+div.futsal{
+    max-width: 50%;
+    max-height: 500px;
+    width: 45%;
+    float: right;
+    height:200px;
+}
+h3.cek2{
+    margin-right: auto;
+    margin-left: auto;
+}
+ul.prestasi{
+    font-size: var(--ukuranfont);
+}
+div.skill1{
+    max-width: 50%;
+    max-height: 500px;
+    width: 45%;
+    height:200px;
+    float: left;
+}
+ul.skill{
+    font-size: var(--ukuranfont);  
+}
+div.inspirasi{
+    max-width: 100%;
+    width: 100%;
+    margin-top: 200px;
+}
+div.inspirasi{
+    text-align: center;
+}
+h3.ins{
+    margin-left: 620px;
+    margin-right: 200px;
+}
+table.tabel2{
+    background-color: var(--warnaputih);
+}
